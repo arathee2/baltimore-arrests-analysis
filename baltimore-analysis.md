@@ -1,4 +1,4 @@
-Baltimore Arrest Data Analysis
+Baltimore Arrests Data Analysis
 ================
 
 Loading and cleaning the data.
